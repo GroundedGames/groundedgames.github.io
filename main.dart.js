@@ -48385,7 +48385,7 @@ case 1:return A.a4(p,r)}})
 return A.a6($async$of,r)}}
 A.PE.prototype={}
 A.yA.prototype={
-N(a,b){return new A.pL(new A.pH(null),"Idle Iktah",A.a5D(null,new A.D(4279312947),B.Ga.Rb(B.dJ)),null)}}
+N(a,b){return new A.pL(new A.pH(null),"Grounded Games",A.a5D(null,new A.D(4279312947),B.Ga.Rb(B.dJ)),null)}}
 A.pH.prototype={
 aG(){return new A.E6(B.l)}}
 A.E6.prototype={
