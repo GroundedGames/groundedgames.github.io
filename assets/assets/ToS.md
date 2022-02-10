@@ -7,7 +7,7 @@ Welcome to **Grounded Games LLC** (“**Company**”, “**we**”, “**our**�
  
 These Terms of Service (“**Terms**”, “**Terms of Service**”) govern your use of our web pages located at https://grounded.games and our mobile application Hex Words: Word Search (together or individually “**Service**”) operated by Grounded Games LLC.
  
-Our Privacy Policy also governs your use of our Service and explains how we collect, safeguard and disclose information that results from your use of our web pages. Please read it here [https://grounded.games/privacy_policy](https://grounded.games/#/privacy_policy).
+Our Privacy Policy also governs your use of our Service and explains how we collect, safeguard and disclose information that results from your use of our web pages. Please read it here [https://grounded.games/#/privacy_policy](https://grounded.games/#/privacy_policy).
  
 Your agreement with us includes these Terms and our Privacy Policy (“**Agreements**”). You acknowledge that you have read and understood Agreements, and agree to be bound by them.
  
