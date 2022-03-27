@@ -1,11 +1,11 @@
 {
-    "name": "grounded_games_website",
-    "short_name": "grounded_games_website",
+    "name": "Grounded Games",
+    "short_name": "Grounded Games",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Good games for good people",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
