@@ -41,6 +41,13 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+video {
+    display: block;
+    max-width: 100%;
+    border-radius: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
 .row {
     text-align: center;
     padding-top: 20px;
