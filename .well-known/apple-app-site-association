@@ -4,7 +4,13 @@
     "details": [
       {
         "appID": "FAR8UCQMRV.games.grounded.idleiktah",
-        "paths": ["/final-forage"]
+        "paths": [
+          "/bloom-festival",
+          "/creek-to-coast",
+          "/final-forage",
+          "/mountain-expedition",
+          "/new-skills-2025",
+        ]
       }
     ]
   }
