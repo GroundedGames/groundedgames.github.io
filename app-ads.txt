@@ -3,6 +3,9 @@ ownerdomain=grounded.games
 # AdMob
 google.com, pub-7463029413276458, DIRECT, f08c47fec0942fa0
 
+# Meta
+facebook.com, 3859595324336537, DIRECT, c3e20eee3f780d68
+
 # Unity Ads
 adagio.io, 1522, RESELLER
 adagio.io, 1575, RESELLER
